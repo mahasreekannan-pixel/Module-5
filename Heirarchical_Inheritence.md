@@ -91,6 +91,7 @@ print("\nPatient Object")
 d = Patient()
 d.setEmployee(id1, nam, gen, hosp, dep)
 d.showEmployee()
+~~~
 
 ## Sample Output
 <img width="682" height="535" alt="image" src="https://github.com/user-attachments/assets/8cbdc4ca-4903-48f0-8410-b71270660ef4" />
