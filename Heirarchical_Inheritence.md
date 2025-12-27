@@ -93,7 +93,7 @@ d.setEmployee(id1, nam, gen, hosp, dep)
 d.showEmployee()
 
 ## Sample Output
-<img width="670" height="531" alt="image" src="https://github.com/user-attachments/assets/0fcc86e2-330c-49ef-8413-d5f56f43f6dd" />
+<img width="682" height="535" alt="image" src="https://github.com/user-attachments/assets/8cbdc4ca-4903-48f0-8410-b71270660ef4" />
 
 ## Result
 Thus, the program is successfully executed.
